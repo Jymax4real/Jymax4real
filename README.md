@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... OOP, DATA BASES, DATA STRUCTURES and GUI's.
 - 📫 How to reach me: ... [Twitter]
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a fitness enthusisast converted to Programming
+- ⚡ Fun fact: ... I am a fitness enthusisast converted to Programming.
 -->
