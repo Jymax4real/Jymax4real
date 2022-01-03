@@ -1,9 +1,3 @@
-
-
-<!--
-**Jymax4real/Jymax4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi there 👋
 
 
@@ -16,3 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a fitness enthusisast converted to Programming.
 -->
+
+<!--
+**Jymax4real/Jymax4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
